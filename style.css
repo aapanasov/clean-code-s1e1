@@ -103,6 +103,10 @@ button {
 }
 
 /* New Task */
+.new-task-section {
+  margin: 1em 0;
+}
+
 .new-task-header {
   display: block;
   margin: 0 0 20px;
