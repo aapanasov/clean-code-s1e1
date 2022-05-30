@@ -85,6 +85,7 @@ button {
   text-transform: uppercase;
 }
 
+.new-task__text,
 .task__text{
   margin: 0;
   font-size: 18px;
@@ -98,6 +99,7 @@ button {
   color: #888;
 }
 
+.new-task__text:focus,
 .task__text:focus {
   color: #333;
 }
@@ -113,7 +115,7 @@ button {
 }
 
 .new-task__text {
-  width: 318px;
+  width: 85%;
 }
 
 /* Task list */
